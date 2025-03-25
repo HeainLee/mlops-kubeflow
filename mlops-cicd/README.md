@@ -1,9 +1,9 @@
-# ☁️ Kubeflow MLOps 자동화 설계: ArgoCD + GitLab + Jenkins 연동 가이드 (for Azure AKS)
+# Kubeflow MLOps 자동화 설계: 
+
+- ArgoCD + GitLab + Jenkins 연동 가이드 (for Azure AKS) / written by GPT
 
 이 문서는 **Kubeflow 기반의 MLOps 파이프라인을 자동화**하기 위해
 `ArgoCD`, `GitLab`, `Jenkins`를 **Azure Kubernetes Service (AKS)** 환경에 통합하는 방법을 설명합니다.
-
-> 🧑‍🏫 **목표 독자**: 쿠버네티스와 MLOps에 익숙하지 않은 개발자/엔지니어
 
 ---
 
